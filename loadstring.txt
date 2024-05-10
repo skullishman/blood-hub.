@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skullishman/blood-hub./main/blood-hub.lua"))()
